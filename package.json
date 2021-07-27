@@ -1,0 +1,18 @@
+{
+    "name": "akihiro.bodytracking.pictogram",
+    "version": "1.0.0",
+    "displayName": "Pictogram2020",
+    "description": "Pictogram with Azure Kinect Bodytracking Unity project",
+    "unity": "2019.4",
+    "samples": [
+        {
+            "displayName": "PictogramScene",
+            "description": "sample scene",
+            "path": "Scenes"
+        }
+    ],
+    "author": {
+        "name": "akihiro",
+        "url": "https://github.com/akihiro0105/Pictogram2020withAKBodytracking"
+    }
+}
